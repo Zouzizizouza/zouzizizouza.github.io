@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zouzizizouza.github.io/categories/</loc>
+    <loc>https://zouzizizouza.github.io/cat%C3%A9gories/</loc>
     <lastmod>2023-12-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zouzizizouza.github.io/categories/cattest/</loc>
+    <loc>https://zouzizizouza.github.io/cat%C3%A9gories/cattest/</loc>
     <lastmod>2023-12-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://zouzizizouza.github.io/</loc>
@@ -14,15 +14,11 @@
     <loc>https://zouzizizouza.github.io/postes/</loc>
     <lastmod>2023-12-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zouzizizouza.github.io/tags/</loc>
-    <lastmod>2023-12-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zouzizizouza.github.io/tags/tagtest/</loc>
-    <lastmod>2023-12-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://zouzizizouza.github.io/postes/test/</loc>
     <lastmod>2023-12-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://zouzizizouza.github.io/%C3%A0-propos/</loc>
+  </url><url>
+    <loc>https://zouzizizouza.github.io/tags/</loc>
   </url>
 </urlset>
