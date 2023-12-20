@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jacques Zouza</title>
-    <link>https://jacques-zouza.org/</link>
+    <link>https://zouzizizouza.github.io/</link>
     <description>Recent content on Jacques Zouza</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <lastBuildDate>Fri, 15 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://jacques-zouza.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zouzizizouza.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Title</title>
-      <link>https://jacques-zouza.org/postes/test/</link>
+      <link>https://zouzizizouza.github.io/postes/test/</link>
       <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://jacques-zouza.org/postes/test/</guid>
+      <guid>https://zouzizizouza.github.io/postes/test/</guid>
       <description>Ut vitae sagittis tortor. Aliquam euismod vel elit id porttitor. Sed sit amet feugiat urna, quis semper ipsum. Ut vitae ligula ultrices, porttitor ipsum nec, accumsan est. Nunc posuere felis non mauris volutpat interdum. Sed consequat arcu est, eget consequat enim feugiat rhoncus. Nunc sit amet rhoncus libero, venenatis tristique eros. Duis feugiat sem ac eros maximus gravida. Cras mollis vulputate risus, eget tincidunt neque porttitor vitae. Sed sit amet volutpat urna.</description>
     </item>
     <item>
       <title>À propos</title>
-      <link>https://jacques-zouza.org/%C3%A0-propos/</link>
+      <link>https://zouzizizouza.github.io/%C3%A0-propos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jacques-zouza.org/%C3%A0-propos/</guid>
+      <guid>https://zouzizizouza.github.io/%C3%A0-propos/</guid>
       <description>Duis eget nibh ut nisi blandit pulvinar id vel mauris. Quisque quis magna dapibus, iaculis magna in, semper augue. Donec ullamcorper justo sed dignissim dictum.&#xA;Duis eget nibh ut nisi blandit pulvinar id vel mauris. Quisque quis magna dapibus, iaculis magna in, semper augue. Donec ullamcorper justo sed dignissim dictum. Sed in purus ac magna ultrices pharetra. Nam id lacus in urna varius euismod at a erat. Cras justo nisl, finibus nec laoreet vitae, ultrices pulvinar velit.</description>
     </item>
   </channel>
