@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jacques Zouza</title>
-    <link>https://jacques-zouza.org/</link>
+    <link>https://zouzizizouza.github.io/</link>
     <description>Recent content on Jacques Zouza</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <lastBuildDate>Fri, 21 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://jacques-zouza.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zouzizizouza.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Écologisation des sports de nature - Partie 1</title>
-      <link>https://jacques-zouza.org/postes/ecologisation-intro/</link>
+      <link>https://zouzizizouza.github.io/postes/ecologisation-des-sports-de-nature-part1/</link>
       <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://jacques-zouza.org/postes/ecologisation-intro/</guid>
+      <guid>https://zouzizizouza.github.io/postes/ecologisation-des-sports-de-nature-part1/</guid>
       <description>Cette série d&amp;rsquo;article représente la première étape d&amp;rsquo;une réflexion et d&amp;rsquo;un programme qui vise pour moi à disperser la confusion autour de l&amp;rsquo;objet de mon intérêt pour un ensemble de pratiques communément désignées par la catégorie de &amp;ldquo;sports de nature&amp;rdquo;. Ultimement, il s&amp;rsquo;agit d&amp;rsquo;éclaircir, par la confrontation avec divers travaux, principalement issus de la recherche en philosophie et en sciences sociales, les prémisses de mon rapport personnel à ces pratiques afin de mieux cultiver celui-ci et peut être contribuer à ma façon au développement ou à la diversification des perspectives à l&amp;rsquo;intérieur de ma discipline.</description>
     </item>
     <item>
       <title>À propos</title>
-      <link>https://jacques-zouza.org/%C3%A0-propos/</link>
+      <link>https://zouzizizouza.github.io/%C3%A0-propos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jacques-zouza.org/%C3%A0-propos/</guid>
+      <guid>https://zouzizizouza.github.io/%C3%A0-propos/</guid>
       <description> </description>
     </item>
   </channel>

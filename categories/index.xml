@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Jacques Zouza</title>
-    <link>https://jacques-zouza.org/categories/</link>
+    <link>https://zouzizizouza.github.io/categories/</link>
     <description>Recent content in Categories on Jacques Zouza</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <lastBuildDate>Fri, 21 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://jacques-zouza.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zouzizizouza.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>écologisation</title>
-      <link>https://jacques-zouza.org/categories/%C3%A9cologisation/</link>
+      <link>https://zouzizizouza.github.io/categories/%C3%A9cologisation/</link>
       <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://jacques-zouza.org/categories/%C3%A9cologisation/</guid>
+      <guid>https://zouzizizouza.github.io/categories/%C3%A9cologisation/</guid>
       <description></description>
     </item>
   </channel>
