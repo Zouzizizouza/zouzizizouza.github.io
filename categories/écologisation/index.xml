@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Postes on Jacques Zouza</title>
-    <link>https://jacques-zouza.org/postes/</link>
-    <description>Recent content in Postes on Jacques Zouza</description>
+    <title>écologisation on Jacques Zouza</title>
+    <link>https://jacques-zouza.org/categories/%C3%A9cologisation/</link>
+    <description>Recent content in écologisation on Jacques Zouza</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <lastBuildDate>Fri, 21 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://jacques-zouza.org/postes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jacques-zouza.org/categories/%C3%A9cologisation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Écologisation des sports de nature - Partie 1</title>
       <link>https://jacques-zouza.org/postes/ecologisation-intro/</link>
